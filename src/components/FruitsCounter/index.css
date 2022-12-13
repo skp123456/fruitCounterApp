@@ -1,0 +1,57 @@
+.bg-container {
+  background-color: #ffd569;
+  min-height: 100vh;
+  border: 1px solid #ffd569;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fruits-card-container {
+  background-color: #ffffff;
+  padding: 30px;
+  margin: 80px;
+  border-radius: 10px;
+  max-width: 500px;
+}
+
+.main-heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.count {
+  color: #ffd569;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-container {
+  margin: 50px;
+  text-align: center;
+}
+
+.mango-image {
+  height: 120px;
+  width: 120px;
+}
+
+.button {
+  height: 35px;
+  width: 90px;
+  background-color: #007bff;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: 5px;
+  border-width: 0px;
+  margin-top: 25px;
+}
